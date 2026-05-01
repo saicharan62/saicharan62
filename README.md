@@ -47,7 +47,7 @@
 
 ## 🐍 Contribution Snake (Auto Graph Animation)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saicharan62/saicharan62/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/saicharan62/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
