@@ -48,13 +48,13 @@ status        Open to software engineering opportunities
 - I enjoy understanding systems deeply and turning complex ideas into clean, reliable software.
 - Strong foundation in algorithms, data structures, DBMS, operating systems, OOP, and computer networks.
 - I like projects that involve state, transactions, queues, APIs, observability, and real product workflows.
-- I publish occasional technical notes and project writeups on [Medium](https://medium.com/@ksaicharan13579).
+- I publish occasional articles and project writeups on [Medium](https://medium.com/@ksaicharan13579).
 
 ---
 
 ## Tech Stack
-
-<p>
+<div align="center">
+  <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -80,19 +80,11 @@ status        Open to software engineering opportunities
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+</div>
+
 
 ---
 
-## Featured Projects
-
-| Project | What it shows | Stack |
-|---|---|---|
-| [Core Banking Backend Engine in C++](https://github.com/saicharan62/backend-system-bank) | Stateful banking backend with account operations, atomic fund transfers, transaction ledger, and disk-backed persistence. | C++, DSA, file persistence, system design |
-| [Retrieval-Augmented GenAI Recommendation Engine](https://github.com/saicharan62/retrieval-augmented-genAI-recommendation-engine) | RAG-style recommendation system using embeddings and FAISS for mapping natural-language requirements to structured recommendations. | Python, Transformers, FAISS, NLP |
-| [Insight Hub - AI Insight Extraction System](https://github.com/saicharan62/insight-hub) | Personal knowledge engine with secured APIs, NLP extraction, semantic clustering, PostgreSQL persistence, and React UI. | FastAPI, PostgreSQL, JWT, React, Tailwind |
-| [End-to-End Transaction Database Management System](https://github.com/saicharan62/end-to-end-transactions-db) | Relational transaction database project with high-volume records, data integrity, optimized querying, and Streamlit analysis. | Python, SQL, Streamlit, data visualization |
-
----
 
 ## Currently Building
 
@@ -126,26 +118,6 @@ AI infrastructure layer for serving model inference reliably.
 
 ---
 
-## Engineering Interests
-
-```txt
-systems       queues · workers · retries · idempotency · observability
-backend       REST APIs · auth · state modeling · data integrity
-data          relational design · transactions · indexes · visualization
-ai infra      retrieval · embeddings · batching · inference gateways
-frontend      dashboards · admin views · operational interfaces
-```
-
----
-
-## Education
-
-**B.Tech - Computer Science (AI & ML)**  
-Uttaranchal University · CGPA: **7.72 / 10.0**
-
-**Coursework:** Data Structures, Algorithms, DBMS, Operating Systems, OOP, Computer Networks
-
----
 
 ## GitHub Activity
 
