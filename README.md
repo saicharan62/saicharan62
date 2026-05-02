@@ -158,6 +158,10 @@ Uttaranchal University · CGPA: **7.72 / 10.0**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saicharan62&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=saicharan62&theme=react-dark&area=true&hide_border=true" alt="GitHub Contributions Graph" />
+</p>
+
 ---
 
 ## Current Focus
