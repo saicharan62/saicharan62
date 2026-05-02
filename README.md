@@ -1,7 +1,7 @@
 <h1 align="center">Sai Charan Kodhandigari</h1>
 
 <p align="center">
-  <b>Software Engineer · Backend & Full Stack · AI/ML Systems · Problem Solver</b>
+  <b>Software Engineer · Backend & Full Stack · AI/ML Systems </b>
 </p>
 
 <p align="center">
@@ -44,12 +44,17 @@ cgpa          7.72 / 10.0
 focus         Backend systems, AI infrastructure, data systems, full-stack products
 status        Open to software engineering opportunities
 ```
-
+<!--
 - I enjoy understanding systems deeply and turning complex ideas into clean, reliable software.
 - Strong foundation in algorithms, data structures, DBMS, operating systems, OOP, and computer networks.
 - I like projects that involve state, transactions, queues, APIs, observability, and real product workflows.
 - I publish occasional articles and project writeups on [Medium](https://medium.com/@ksaicharan13579).
+-->
 
+- I like understanding how systems actually work and building  clean, reliable solutions.
+- Good foundation in core CS: algorithms, data structures, DBMS, OS, and networks.
+- Interested in systems involving state, transactions, queues, APIs, and real product flows.
+- I write occasionally about projects and learnings on Medium.
 ---
 
 ## Tech Stack
@@ -67,6 +72,7 @@ status        Open to software engineering opportunities
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -99,6 +105,7 @@ Full-stack payment platform where every transaction becomes a job with state, re
 - React dashboard with live transaction feed and worker/queue status
 - Dockerized multi-service setup
 
+<!--
 ### Nexus - Distributed Task Orchestration Engine
 DAG-based workflow orchestration engine for dependency-aware task execution.
 
@@ -116,33 +123,30 @@ AI infrastructure layer for serving model inference reliably.
 - Circuit breaker, input hash caching, sync/async inference modes
 - Prometheus-style metrics for latency, throughput, batch size, and worker utilization
 
+-->
+
 ---
 
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saicharan62&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan62&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saicharan62&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=saicharan62&theme=react-dark&area=true&hide_border=true" alt="GitHub Contributions Graph" />
-</p>
+
 
 ---
-
+<!--
 ## Current Focus
 
 - Strengthening DSA through consistent LeetCode practice.
 - Building production-flavored projects instead of tutorial clones.
 - Going deeper into backend systems, distributed queues, and AI infrastructure.
 - Writing clearer documentation and occasional technical articles on Medium.
-
+-->
 ---
 
 <p align="center">
