@@ -165,7 +165,7 @@ System Design         ██████░░░░░░░░░░░░░�
   Once set up, replace YOUR_GITHUB_USERNAME below:
 -->
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/saicharan62/saicharan62/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
