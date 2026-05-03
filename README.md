@@ -35,6 +35,7 @@
 
 ---
 
+<!--
 ## About
 
 ```txt
@@ -44,17 +45,19 @@ cgpa          7.72 / 10.0
 focus         Backend systems, AI infrastructure, data systems, full-stack products
 status        Open to software engineering opportunities
 ```
-<!--
+
 - I enjoy understanding systems deeply and turning complex ideas into clean, reliable software.
 - Strong foundation in algorithms, data structures, DBMS, operating systems, OOP, and computer networks.
 - I like projects that involve state, transactions, queues, APIs, observability, and real product workflows.
 - I publish occasional articles and project writeups on [Medium](https://medium.com/@ksaicharan13579).
--->
+
 
 - I like understanding how systems actually work and building  clean, reliable solutions.
 - Good foundation in core CS: algorithms, data structures, DBMS, OS, and networks.
 - Interested in systems involving state, transactions, queues, APIs, and real product flows.
 - I write occasionally about projects and learnings on Medium.
+-->
+
 ---
 
 ## Tech Stack
