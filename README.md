@@ -96,8 +96,9 @@ status        Open to software engineering opportunities
 
 
 ## Currently Building
-
+<!--
 These are active/in-progress systems, intentionally listed as builds in motion rather than finished claims.
+-->
 
 ### PayFlow - Payment Processing Platform
 Full-stack payment platform where every transaction becomes a job with state, retries, idempotency, and audit trails.
